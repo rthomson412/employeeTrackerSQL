@@ -1,4 +1,5 @@
-USE company;
+USE myBusinesss;
+
 INSERT INTO departments (name)
 VALUES
  ("Sales"),
