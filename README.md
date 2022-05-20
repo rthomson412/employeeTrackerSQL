@@ -29,7 +29,7 @@ node server
 Navigate and select from prompts as required. C'est bon.
 
 ## Video Walkthrough
-https://drive.google.com/file/d/1ltzXvG30ySbEF_BHj_s0gpmlgsP0_e3y/view
+https://watch.screencastify.com/v/Y7dW2xr5J4QdunGIibeE
 
 
 
